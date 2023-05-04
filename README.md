@@ -9,7 +9,7 @@ absolute percentage error generated through each of the combinations were observ
 ## How to get started
 The code can be run using a jupyter notebook. 
 
-//TODO
+## TODO
 The data used in this project will be uploaded in Kaggle and link will be shared soon.
 
 ## License
